@@ -1,0 +1,80 @@
+body {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.img-logo {
+    width: 80px;
+    margin: 20px 0px 0px 30px;
+
+}
+
+.nav-div {
+    height: 70px;
+    box-shadow: 0px 3px 5px grey;
+}
+
+.head-img {
+    width: 550px;
+}
+
+.head-div {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: center;
+}
+
+.head-div h1 {
+    margin-bottom: 0px;
+}
+
+.card-div {
+    margin-left: 37px;
+    position: relative;
+    font-size: 12px;
+
+}
+
+.sold-out {
+    position: absolute;
+    font-weight:bold;
+    font-size: 11px;
+    background-color: white;
+    padding: 4px 6px;
+    margin: 6px;
+    border-radius: 3px;
+}
+
+
+.info-sec{
+    margin-top: 2px;
+    width:180px;
+}
+
+.grey-txt {
+    color: #918E9B;
+}
+
+#dollar {
+    font-weight: bold;
+}
+
+/* .star-div{
+    display: flex;
+    align-items: center;
+} */
+
+#rating {
+    margin-left: 2px;
+}
+
+#quote {
+    /* margin-top: 0%; */
+
+}
+
+.card-section{
+    display:flex;
+}
